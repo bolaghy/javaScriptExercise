@@ -1,13 +1,13 @@
 // 6. Create a variable score with value 75. Write code that prints "Pass" 
 // if score is 50 or above, otherwise print "Fail".
 
-// const score = 75;
+const score = 75;
 
-// if( score >= 50){
-//     console.log("pass")
-// }else{
-//     console.log("fail")
-// }
+if( score >= 50){
+    console.log("pass")
+}else{
+    console.log("fail")
+}
 
 // 7. Declare two variables a and b with values 12 and 15. Write code to check 
 // if a is greater than b and print an appropriate message.
@@ -39,7 +39,7 @@ if(age > 18){
  }
 // 10. Create a variable num with value 24. Write code to check if the number 
 // is even or odd and print the result.
-let num = 3;
+let num = 24;
 
 if(num % 2 ==0){
     console.log(num+ " is even number")

@@ -58,7 +58,7 @@ if(num % 3=== 0) {
 
 let subject1 = 78;
 let subject2 = 85;
-let subject3 = 93;
+let subject3 = 93;  
 
 const avg = subject1 + subject2 + subject3 /3;
 
